@@ -1,2 +1,7 @@
 export module BPZ1901.Bachaev.Lab3.Task4;
-import <cmath>;
+
+export import :a_n;
+export import :f_1;
+export import :f_2;
+export import :f_3;
+export import :f_4;

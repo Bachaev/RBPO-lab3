@@ -118,6 +118,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp20</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -132,6 +133,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp20</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -152,7 +154,17 @@
     <ClCompile Include="Task3_f3_Implementation.cpp" />
     <ClCompile Include="Task3_f4_Implementation.cpp" />
     <ClCompile Include="Task4.ixx" />
+    <ClCompile Include="Task4_f1.ixx" />
+    <ClCompile Include="Task4_f1_Implementation.cpp" />
+    <ClCompile Include="Task4_f2.ixx" />
+    <ClCompile Include="Task4_f2_Implementation.cpp" />
+    <ClCompile Include="Task4_f3.ixx" />
+    <ClCompile Include="Task4_f3_Implementation.cpp" />
+    <ClCompile Include="Task4_f4.ixx" />
+    <ClCompile Include="Task4_f4_Implementation.cpp" />
     <ClCompile Include="Task5.ixx" />
+    <ClCompile Include="Task_an.ixx" />
+    <ClCompile Include="Task_an_Implementation.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Task3_an_Implementation.h" />

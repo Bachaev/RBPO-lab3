@@ -66,6 +66,36 @@
     <ClCompile Include="Task3_an_Implementation.cpp">
       <Filter>Исходные файлы\Task3</Filter>
     </ClCompile>
+    <ClCompile Include="Task4_f1.ixx">
+      <Filter>Исходные файлы\Task4</Filter>
+    </ClCompile>
+    <ClCompile Include="Task4_f2.ixx">
+      <Filter>Исходные файлы\Task4</Filter>
+    </ClCompile>
+    <ClCompile Include="Task4_f3.ixx">
+      <Filter>Исходные файлы\Task4</Filter>
+    </ClCompile>
+    <ClCompile Include="Task4_f4.ixx">
+      <Filter>Исходные файлы\Task4</Filter>
+    </ClCompile>
+    <ClCompile Include="Task_an.ixx">
+      <Filter>Исходные файлы\Task4</Filter>
+    </ClCompile>
+    <ClCompile Include="Task_an_Implementation.cpp">
+      <Filter>Исходные файлы\Task4</Filter>
+    </ClCompile>
+    <ClCompile Include="Task4_f1_Implementation.cpp">
+      <Filter>Исходные файлы\Task4</Filter>
+    </ClCompile>
+    <ClCompile Include="Task4_f2_Implementation.cpp">
+      <Filter>Исходные файлы\Task4</Filter>
+    </ClCompile>
+    <ClCompile Include="Task4_f3_Implementation.cpp">
+      <Filter>Исходные файлы\Task4</Filter>
+    </ClCompile>
+    <ClCompile Include="Task4_f4_Implementation.cpp">
+      <Filter>Исходные файлы\Task4</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Task3_an_Implementation.h">
