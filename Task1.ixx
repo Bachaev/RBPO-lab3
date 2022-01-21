@@ -8,7 +8,7 @@ namespace RBPO::Lab3::Task1
     export double f2(const double x) {
         return ((x >= 1.1) ? (9 - x) : sin(3 * x) / (x*x*x*x + 1));
     }
-    export double a(const double i) {
+    double a(const double i) {
         return pow(-1.0, i) * (i + 1) / (i * i * i + 2);
     }
     export double f3(double n) {
